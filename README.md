@@ -6,7 +6,7 @@
     <a href="https://mastodon.social/@xjmpereira"><img width="20px" alt="link to mastodon profile" src="./assets/logo-mastodon.png" /></a>
 </p>
 
-I'm **xjmpereira**, just another engineer with a background in Electrical and Computer Engineering and a master's in Automation.
+I'm ***xjmpereira***, just another engineer with a background in Electrical and Computer Engineering and a master's in Automation.
 
 ---
 
